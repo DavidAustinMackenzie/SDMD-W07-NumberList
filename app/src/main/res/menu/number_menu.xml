@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/low_limit"
+        android:title="LOW RANGE" />
+    <item
+        android:id="@+id/medium_limit"
+        android:title="MEDIUM RANGE" />
+    <item
+        android:id="@+id/high_limit"
+        android:title="HIGH RANGE" />
+</menu>
+

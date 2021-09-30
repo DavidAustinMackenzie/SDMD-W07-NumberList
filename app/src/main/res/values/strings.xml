@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">W07-NumberList</string>
+    <string name="low_limit">Lower</string>
+    <string name="med_limit">Medium</string>
+    <string name="high_limit">High</string>
 </resources>
